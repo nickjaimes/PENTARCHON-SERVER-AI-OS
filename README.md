@@ -2,11 +2,6 @@
 
 Pentarchon Server AI OS
 
-<div align="center">https://img.shields.io/badge/version-2.0.0--SERVER-blue
-https://img.shields.io/badge/license-Proprietary-orange
-https://img.shields.io/badge/status-Active-brightgreen
-https://img.shields.io/badge/AI--Native-Operating%20System-purple
-
 The Enterprise-Grade AI Operating System for the Next Generation of Computing
 
 From Silicon to Wisdom, From Computation to Understanding, From Intelligence to Transcendence
